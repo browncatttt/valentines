@@ -1,0 +1,21 @@
+{
+    "name": "Valentine's Fun",
+    "short_name": "Valentine",
+    "description": "A fun Valentine's Day interactive webpage!",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffe6e6",
+    "theme_color": "#ff6f91",
+    "icons": [
+      {
+        "src": "cute-bear.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "cute-bear.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
